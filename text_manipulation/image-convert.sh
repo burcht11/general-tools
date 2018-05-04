@@ -1,4 +1,7 @@
+# Tyler James Burch - burcht11@gmail.com
 # TMVA outputs a lot in .eps, so quick script to change all files in a directory to another filetype
+# Can change OUTPUT_FILETYPE for any image file type
+
 DIRECTORY=$1
 OUTPUT_FILETYPE=png
 
